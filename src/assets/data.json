@@ -1,0 +1,112 @@
+{
+  "destinations": [
+    {
+      "name": "Луна",
+      "slug": "moon",
+      "images": {
+        "png": "./assets/destination/image-moon.png",
+        "webp": "./assets/destination/image-moon.webp"
+      },
+      "description": "Посмотрите на нашу планету так, как вы никогда ее раньше не видели. Идеальное расслабляющее путешествие, которое поможет восстановить перспективу и вернуться отдохнувшим. Пока вы там, окунитесь в историю, посетив места посадки \"Луны-2\" и \"Аполлона-11\"..",
+      "distance": "384,400 km",
+      "travel": "3 дня"
+    },
+    {
+      "name": "Марс",
+      "slug": "mars",
+      "images": {
+        "png": "./assets/destination/image-mars.png",
+        "webp": "./assets/destination/image-mars.webp"
+      },
+      "description": "Не забудь взять с собой походные ботинки. Они понадобятся вам, чтобы взобраться на гору Олимп, самую высокую планетарную гору в нашей солнечной системе. Он в два с половиной раза больше Эвереста!",
+      "distance": "225 mil. km",
+      "travel": "9 месяцев"
+    },
+    {
+      "name": "Европа",
+      "slug": "europe",
+      "images": {
+        "png": "./assets/destination/image-europa.png",
+        "webp": "./assets/destination/image-europa.webp"
+      },
+      "description": "Самая маленькая из четырех галилеевых лун, вращающихся вокруг Юпитера, Европа - мечта любителя зимы. С ледяной поверхностью он идеально подходит для катания на коньках, керлинга, хоккея или просто отдыха в вашем уютном зимнем домике.",
+      "distance": "628 mil. km",
+      "travel": "3 года"
+    },
+    {
+      "name": "Тинтан",
+      "slug": "titan",
+      "images": {
+        "png": "./assets/destination/image-titan.png",
+        "webp": "./assets/destination/image-titan.webp"
+      },
+      "description": "Единственная известная луна с плотной атмосферой, отличной от Земной, Титан - это дом вдали от дома (всего на несколько сотен градусов холоднее!). В качестве бонуса вы получите потрясающий вид на кольца Сатурна.",
+      "distance": "1.6 bil. km",
+      "travel": "7 лет"
+    }
+  ],
+  "crew": [
+    {
+      "name": "Douglas Hurley",
+      "images": {
+        "png": "./assets/crew/image-douglas-hurley.png",
+        "webp": "./assets/crew/image-douglas-hurley.webp"
+      },
+      "role": "Командир",
+      "bio": "Douglas Gerald Hurley американский инженер, бывший пилот Корпуса морской пехоты и бывший астронавт НАСА. Он в третий раз отправился в космос в качестве командира Crew Dragon Demo-2."
+    },
+    {
+      "name": "Mark Shuttleworth",
+      "images": {
+        "png": "./assets/crew/image-mark-shuttleworth.png",
+        "webp": "./assets/crew/image-mark-shuttleworth.webp"
+      },
+      "role": "Специалист по миссии",
+      "bio": "Mark Richard Shuttleworth является основателем и генеральным директором Canonical, компании, создающей операционную систему Ubuntu на базе Linux. Шаттлворт стал первым южноафриканцем, отправившимся в космос в качестве космического туриста."
+    },
+    {
+      "name": "Victor Glover",
+      "images": {
+        "png": "./assets/crew/image-victor-glover.png",
+        "webp": "./assets/crew/image-victor-glover.webp"
+      },
+      "role": "Пилот",
+      "bio": "Пилот первого оперативного рейса SpaceX Crew Dragon на Международную космическую станцию. Гловер - командир военно-морского флота США, где он пилотирует F/A-18.Он был членом экипажа 64-й экспедиции и служил бортинженером систем станции."
+    },
+    {
+      "name": "Anousheh Ansari",
+      "images": {
+        "png": "./assets/crew/image-anousheh-ansari.png",
+        "webp": "./assets/crew/image-anousheh-ansari.webp"
+      },
+      "role": "Бортинженер",
+      "bio": "Anousheh Ansari является ирано-американским инженером и соучредителем Prodea Systems. Ансари была четвертой самофинансируемой космической туристкой, первой самофинансируемой женщиной, полетевшей на МКС, и первой иранкой в космосе."
+    }
+  ],
+  "technology": [
+    {
+      "name": "Ракета-носитель",
+      "images": {
+        "portrait": "./assets/technology/image-launch-vehicle-portrait.jpg",
+        "landscape": "./assets/technology/image-launch-vehicle-landscape.jpg"
+      },
+      "description": "Ракета-носитель - это ракетное транспортное средство, используемое для доставки полезной нагрузки с поверхности Земли в космос, обычно на околоземную орбиту или за ее пределы. Наша ракета-носитель WEB-X является самой мощной в эксплуатации. Стоящий на высоте 150 метров, он представляет собой довольно внушающее благоговейный трепет зрелище на стартовой площадке!"
+    },
+    {
+      "name": "Космопорт",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "Космопорт или космодром - это площадка для запуска (или приема) космических аппаратов, по аналогии с морским портом для судов или аэропортом для самолетов. Наш космодром, расположенный на знаменитом мысе Канаверал, идеально расположен для того, чтобы использовать вращение Земли для запуска."
+    },
+    {
+      "name": "Космическая капсула",
+      "images": {
+        "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
+        "landscape": "./assets/technology/image-space-capsule-landscape.jpg"
+      },
+      "description": "Космическая капсула - это часто пилотируемый космический корабль, который использует спускаемую капсулу с тупым корпусом для повторного входа в атмосферу Земли без крыльев. Наша капсула - это место, где вы проведете свое время во время полета. Он включает в себя просторный тренажерный зал, кинотеатр и множество других развлечений, которые не дадут вам скучать."
+    }
+  ]
+}
